@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1304344547
-ModificationTime: 1710030776
+ModificationTime: 1710079405
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -55,6 +55,7 @@ OS2StrikeYPos: 530
 OS2Vendor: '    '
 OS2CodePages: 20000111.41000000
 OS2UnicodeRanges: 800000a7.5000004a.00000000.00000000
+Lookup: 4 0 1 "'liga' Standard Ligatures in Latin lookup 0" { "'liga' Standard Ligatures in Latin lookup 0-1"  "'liga' Standard Ligatures in Latin lookup 0-2"  } ['liga' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 1 0 0 "Flourishes" { "Flourishes-2"  "Flourishes-1"  } ['cv01' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
