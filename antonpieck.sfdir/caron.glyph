@@ -1,0 +1,19 @@
+StartChar: caron
+Encoding: 105 711 114
+Width: 1024
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+221 1434 m 1,0,-1
+ 279 1434 l 1,1,-1
+ 512 1220 l 1,2,-1
+ 745 1434 l 1,3,-1
+ 803 1434 l 1,4,-1
+ 571 1078 l 1,5,-1
+ 453 1078 l 1,6,-1
+ 221 1434 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar

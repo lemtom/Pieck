@@ -1,0 +1,21 @@
+StartChar: hyphen
+Encoding: 8 45 15
+AltUni2: 0000ad.ffffffff.0 0000ad.ffffffff.0
+Width: 670
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+156 409 m 2,0,1
+ 116 409 116 409 116 437 c 2,2,-1
+ 116 520 l 2,3,4
+ 116 549 116 549 157 549 c 2,5,-1
+ 513 549 l 2,6,7
+ 554 549 554 549 554 520 c 2,8,-1
+ 554 437 l 2,9,10
+ 554 409 554 409 514 409 c 2,11,-1
+ 156 409 l 2,0,1
+EndSplineSet
+Validated: 1
+EndChar
